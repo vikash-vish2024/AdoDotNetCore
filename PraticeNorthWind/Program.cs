@@ -9,7 +9,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<NorthwindContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("NorthwindConnetion")));
 var app = builder.Build();
 //builder.Services.AddScoped<ISupplierRepository,SupplierService>();
-builder.Services.AddScoped<IOrderRepository, OrderService>();
+//builder.Services.AddScoped<IOrderRepository, OrderService>();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {

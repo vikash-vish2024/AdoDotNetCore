@@ -8,7 +8,6 @@ namespace PraticeNorthWind.Controllers
         private readonly IOrderRepository ordersRepository;
         public OrderController(IOrderRepository ordersRepository)
         {
-
             this.ordersRepository = ordersRepository;
         }
 

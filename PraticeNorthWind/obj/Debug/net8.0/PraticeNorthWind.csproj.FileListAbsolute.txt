@@ -250,3 +250,4 @@ D:\Core_DotNet\PraticeNorthWind\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microso
 D:\Core_DotNet\PraticeNorthWind\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Core_DotNet\PraticeNorthWind\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Core_DotNet\PraticeNorthWind\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Core_DotNet\PraticeNorthWind\obj\Debug\net8.0\PraticeNorthWind.sourcelink.json

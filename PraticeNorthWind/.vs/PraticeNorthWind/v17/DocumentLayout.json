@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "D:\\Core_DotNet\\PraticeNorthWind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\repository\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:repository\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\views\\orders\\getallorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:views\\orders\\getallorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\repository\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:repository\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\views\\orders\\getorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:views\\orders\\getorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\views\\order\\callprocedurewithparameter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:views\\order\\callprocedurewithparameter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\views\\supplier\\getallsupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:views\\supplier\\getallsupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +47,20 @@
       "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:models\\custordersorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\repository\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:repository\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\views\\supplier\\getallsupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:views\\supplier\\getallsupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\repository\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:repository\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9938F33-7F64-446B-BB8D-F7BD296E4387}|PraticeNorthWind.csproj|d:\\core_dotnet\\praticenorthwind\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +74,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllOrder.cshtml",
+              "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Views\\Orders\\GetAllOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\GetAllOrder.cshtml",
+              "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\Views\\Orders\\GetAllOrder.cshtml",
+              "RelativeToolTip": "Views\\Orders\\GetAllOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T10:11:17.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:34:27.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T08:58:26.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetOrder.cshtml",
+              "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Views\\Orders\\GetOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\GetOrder.cshtml",
+              "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\Views\\Orders\\GetOrder.cshtml",
+              "RelativeToolTip": "Views\\Orders\\GetOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T10:00:04.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CallProcedurewithParameter.cshtml",
+              "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Views\\Order\\CallProcedurewithParameter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\CallProcedurewithParameter.cshtml",
+              "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\Views\\Order\\CallProcedurewithParameter.cshtml",
+              "RelativeToolTip": "Views\\Order\\CallProcedurewithParameter.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T10:01:13.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:48:56.347Z"
             },
             {
               "$type": "Document",
@@ -76,66 +161,49 @@
               "RelativeDocumentMoniker": "Repository\\OrderService.cs",
               "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\Repository\\OrderService.cs",
               "RelativeToolTip": "Repository\\OrderService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAFAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAACSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:19:36.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:19:36.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T08:34:27.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
               "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:30:39.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:30:39.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CustOrdersOrders.cs",
               "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Models\\CustOrdersOrders.cs",
               "RelativeDocumentMoniker": "Models\\CustOrdersOrders.cs",
               "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\Models\\CustOrdersOrders.cs",
               "RelativeToolTip": "Models\\CustOrdersOrders.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAYwAwAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:17:34.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:17:34.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "NorthwindContext.cs",
               "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Models\\NorthwindContext.cs",
               "RelativeDocumentMoniker": "Models\\NorthwindContext.cs",
               "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\Models\\NorthwindContext.cs",
               "RelativeToolTip": "Models\\NorthwindContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAgAAAAdAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T08:34:21.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T08:34:21.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Repository\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IOrderRepository.cs",
@@ -143,12 +211,11 @@
               "RelativeToolTip": "Repository\\IOrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:15:59.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:15:59.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "ISupplierRepository.cs",
               "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Repository\\ISupplierRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ISupplierRepository.cs",
@@ -156,25 +223,11 @@
               "RelativeToolTip": "Repository\\ISupplierRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T08:28:23.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T08:28:23.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CallProcedurewithParameter.cshtml",
-              "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Views\\Order\\CallProcedurewithParameter.cshtml",
-              "RelativeDocumentMoniker": "Views\\Order\\CallProcedurewithParameter.cshtml",
-              "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\Views\\Order\\CallProcedurewithParameter.cshtml",
-              "RelativeToolTip": "Views\\Order\\CallProcedurewithParameter.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T09:32:18.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "GetAllSupplier.cshtml",
               "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Views\\Supplier\\GetAllSupplier.cshtml",
               "RelativeDocumentMoniker": "Views\\Supplier\\GetAllSupplier.cshtml",
@@ -182,25 +235,11 @@
               "RelativeToolTip": "Views\\Supplier\\GetAllSupplier.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T08:57:15.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T08:57:15.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Core_DotNet\\PraticeNorthWind\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-02T08:58:26.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "SupplierController.cs",
               "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Controllers\\SupplierController.cs",
               "RelativeDocumentMoniker": "Controllers\\SupplierController.cs",
@@ -208,12 +247,11 @@
               "RelativeToolTip": "Controllers\\SupplierController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T08:45:50.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T08:45:50.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Supplier.cs",
               "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Models\\Supplier.cs",
               "RelativeDocumentMoniker": "Models\\Supplier.cs",
@@ -221,12 +259,11 @@
               "RelativeToolTip": "Models\\Supplier.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T08:42:21.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T08:42:21.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "SupplierService.cs",
               "DocumentMoniker": "D:\\Core_DotNet\\PraticeNorthWind\\Repository\\SupplierService.cs",
               "RelativeDocumentMoniker": "Repository\\SupplierService.cs",
@@ -234,8 +271,7 @@
               "RelativeToolTip": "Repository\\SupplierService.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAA7wA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T08:28:46.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T08:28:46.053Z"
             }
           ]
         }
