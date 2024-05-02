@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Core_DotNet\\Day1MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|d:\\core_dotnet\\day1mvc\\views\\department\\getdepartmentbybatchstrength.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|solutionrelative:views\\department\\getdepartmentbybatchstrength.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|d:\\core_dotnet\\day1mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|d:\\core_dotnet\\day1mvc\\views\\department\\getdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|solutionrelative:views\\department\\getdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|d:\\core_dotnet\\day1mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|d:\\core_dotnet\\day1mvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|d:\\core_dotnet\\day1mvc\\views\\demo\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|solutionrelative:views\\demo\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|d:\\core_dotnet\\day1mvc\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|solutionrelative:controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|d:\\core_dotnet\\day1mvc\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|solutionrelative:views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|d:\\core_dotnet\\day1mvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED046C3-EF36-4796-9991-6A5648A873C8}|Day1MVC.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Core_DotNet\\Day1MVC\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Core_DotNet\\Day1MVC\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:52:24.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetDepartmentByBatchStrength.cshtml",
+              "DocumentMoniker": "D:\\Core_DotNet\\Day1MVC\\Views\\Department\\GetDepartmentByBatchStrength.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\GetDepartmentByBatchStrength.cshtml",
+              "ToolTip": "D:\\Core_DotNet\\Day1MVC\\Views\\Department\\GetDepartmentByBatchStrength.cshtml",
+              "RelativeToolTip": "Views\\Department\\GetDepartmentByBatchStrength.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T07:39:23.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetDepartment.cshtml",
+              "DocumentMoniker": "D:\\Core_DotNet\\Day1MVC\\Views\\Department\\GetDepartment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\GetDepartment.cshtml",
+              "ToolTip": "D:\\Core_DotNet\\Day1MVC\\Views\\Department\\GetDepartment.cshtml",
+              "RelativeToolTip": "Views\\Department\\GetDepartment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T07:06:36.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Core_DotNet\\Day1MVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\Core_DotNet\\Day1MVC\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:50:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayEmployee.cshtml",
+              "DocumentMoniker": "D:\\Core_DotNet\\Day1MVC\\Views\\Demo\\DisplayEmployee.cshtml",
+              "RelativeDocumentMoniker": "Views\\Demo\\DisplayEmployee.cshtml",
+              "ToolTip": "D:\\Core_DotNet\\Day1MVC\\Views\\Demo\\DisplayEmployee.cshtml",
+              "RelativeToolTip": "Views\\Demo\\DisplayEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T06:49:27.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Core_DotNet\\Day1MVC\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Demo\\Index.cshtml",
+              "ToolTip": "D:\\Core_DotNet\\Day1MVC\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "Views\\Demo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T06:46:41.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Core_DotNet\\Day1MVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Core_DotNet\\Day1MVC\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:43:10.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "D:\\Core_DotNet\\Day1MVC\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DemoController.cs",
+              "ToolTip": "D:\\Core_DotNet\\Day1MVC\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "Controllers\\DemoController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:33:19.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Core_DotNet\\Day1MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Core_DotNet\\Day1MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:53:27.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
