@@ -10,6 +10,8 @@ namespace CodeFirstApporachCore.Models
             
         }
         public DbSet<Medicine> Medicines { get; set; }
+
         public DbSet<CodeFirstApporachCore.Models.MedicineSupplier> MedicineSupplier { get; set; } = default!;
+        public DbSet<MedsDescription> medsDescriptions { get; set; }
     }
 }

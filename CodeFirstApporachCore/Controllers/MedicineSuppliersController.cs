@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CodeFirstApporachCore.Models;
+using CodeFirstApporachCore.Filters;
 
 namespace CodeFirstApporachCore.Controllers
 {
@@ -25,6 +26,7 @@ namespace CodeFirstApporachCore.Controllers
         }
 
         // GET: MedicineSuppliers/Details/5
+        [WatchFilter]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -57,14 +59,12 @@ namespace CodeFirstApporachCore.Controllers
         {
             //if (ModelState.IsValid)
             //{
-            //    _context.Add(medicineSupplier);
-            //    await _context.SaveChangesAsync();
-            //    return RedirectToAction(nameof(Index));
+               
             //}
             _context.Add(medicineSupplier);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
-            return View(medicineSupplier);
+            //return View(medicineSupplier);
         }
 
         // GET: MedicineSuppliers/Edit/5
@@ -154,6 +154,11 @@ namespace CodeFirstApporachCore.Controllers
         private bool MedicineSupplierExists(int id)
         {
             return _context.MedicineSupplier.Any(e => e.SupplierId == id);
+        }
+
+        public IActionResult GetsuppplierByName(string name)
+        {
+            return View();
         }
     }
 }

@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{D1A239E8-9E1C-4FFA-BDAA-32F66ECDC52D}|NorthWindDB.csproj|solutionrelative:controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1A239E8-9E1C-4FFA-BDAA-32F66ECDC52D}|NorthWindDB.csproj|d:\\core_dotnet\\northwinddb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1A239E8-9E1C-4FFA-BDAA-32F66ECDC52D}|NorthWindDB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1A239E8-9E1C-4FFA-BDAA-32F66ECDC52D}|NorthWindDB.csproj|d:\\core_dotnet\\northwinddb\\repository\\supplierservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1A239E8-9E1C-4FFA-BDAA-32F66ECDC52D}|NorthWindDB.csproj|solutionrelative:repository\\supplierservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A239E8-9E1C-4FFA-BDAA-32F66ECDC52D}|NorthWindDB.csproj|d:\\core_dotnet\\northwinddb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A239E8-9E1C-4FFA-BDAA-32F66ECDC52D}|NorthWindDB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1A239E8-9E1C-4FFA-BDAA-32F66ECDC52D}|NorthWindDB.csproj|d:\\core_dotnet\\northwinddb\\repository\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1A239E8-9E1C-4FFA-BDAA-32F66ECDC52D}|NorthWindDB.csproj|solutionrelative:repository\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Core_DotNet\\NorthWindDB\\Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1A239E8-9E1C-4FFA-BDAA-32F66ECDC52D}|NorthWindDB.csproj|d:\\core_dotnet\\northwinddb\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A239E8-9E1C-4FFA-BDAA-32F66ECDC52D}|NorthWindDB.csproj|solutionrelative:models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,33 +44,33 @@
               "RelativeDocumentMoniker": "Controllers\\SuppliersController.cs",
               "ToolTip": "D:\\Core_DotNet\\NorthWindDB\\Controllers\\SuppliersController.cs",
               "RelativeToolTip": "Controllers\\SuppliersController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwC8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T06:57:19.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SupplierServices.cs",
               "DocumentMoniker": "D:\\Core_DotNet\\NorthWindDB\\Repository\\SupplierServices.cs",
               "RelativeDocumentMoniker": "Repository\\SupplierServices.cs",
               "ToolTip": "D:\\Core_DotNet\\NorthWindDB\\Repository\\SupplierServices.cs",
               "RelativeToolTip": "Repository\\SupplierServices.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwB0AAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T06:12:21.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Core_DotNet\\NorthWindDB\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Core_DotNet\\NorthWindDB\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T06:13:41.35Z",
               "EditorCaption": ""
@@ -85,8 +85,7 @@
               "RelativeToolTip": "Repository\\ISupplierRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T06:12:44.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T06:12:44.974Z"
             },
             {
               "$type": "Document",
@@ -98,8 +97,7 @@
               "RelativeToolTip": "Models\\NorthwindContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T06:11:38.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T06:11:38.381Z"
             }
           ]
         }

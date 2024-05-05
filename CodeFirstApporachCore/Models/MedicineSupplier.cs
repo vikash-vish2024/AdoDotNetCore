@@ -11,7 +11,7 @@ namespace CodeFirstApporachCore.Models
 
         public string ContactDetails { get; set; }
 
-        
+
         public virtual ICollection<Medicine> Medicines { get; set; }
     }
 }

@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Core_DotNet\CodeFirstApporachCore
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Core_DotNet/CodeFirstApporachCore/Views/Demo/CustomError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xDdXN0b21FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Core_DotNet/CodeFirstApporachCore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,6 +52,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Core_DotNet/CodeFirstApporachCore/Views/MedicineSuppliers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVTdXBwbGllcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Core_DotNet/CodeFirstApporachCore/Views/MedicineSuppliers/GetsuppplierByName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVTdXBwbGllcnNcR2V0c3VwcHBsaWVyQnlOYW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Core_DotNet/CodeFirstApporachCore/Views/MedicineSuppliers/Index.cshtml]
@@ -74,8 +82,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Core_DotNet/CodeFirstApporachCore/Views/MedsDescriptions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkc0Rlc2NyaXB0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Core_DotNet/CodeFirstApporachCore/Views/MedsDescriptions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkc0Rlc2NyaXB0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Core_DotNet/CodeFirstApporachCore/Views/MedsDescriptions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkc0Rlc2NyaXB0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Core_DotNet/CodeFirstApporachCore/Views/MedsDescriptions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkc0Rlc2NyaXB0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Core_DotNet/CodeFirstApporachCore/Views/MedsDescriptions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkc0Rlc2NyaXB0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Core_DotNet/CodeFirstApporachCore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Core_DotNet/CodeFirstApporachCore/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Core_DotNet/CodeFirstApporachCore/Views/Shared/_CustomerPortalLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdXN0b21lclBvcnRhbExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Core_DotNet/CodeFirstApporachCore/Views/Shared/_MyNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NeU5hdkJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Core_DotNet/CodeFirstApporachCore/Views/Shared/_OnlineMedicalLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PbmxpbmVNZWRpY2FsTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Core_DotNet/CodeFirstApporachCore/Views/Shared/_ValidationScriptsPartial.cshtml]

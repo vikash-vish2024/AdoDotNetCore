@@ -74,6 +74,38 @@ namespace CodeFirstApporachCore.Migrations
                     b.ToTable("MedicineSupplier");
                 });
 
+            modelBuilder.Entity("CodeFirstApporachCore.Models.MedsDescription", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ExpiryDate")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Manufacturer")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ManufacturingDate")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("medsDescriptions");
+                });
+
             modelBuilder.Entity("CodeFirstApporachCore.Models.Medicine", b =>
                 {
                     b.HasOne("CodeFirstApporachCore.Models.MedicineSupplier", "MedicineSupplier")

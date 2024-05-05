@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CodeFirstApporachCore.Models;
+using Microsoft.AspNetCore.Components;
 
 namespace CodeFirstApporachCore.Controllers
 {
@@ -55,15 +56,15 @@ namespace CodeFirstApporachCore.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("MedicineId,MedicineName,MedicineDescription,MedicinePrice,Quantity")] Medicine medicine)
         {
-            //if (ModelState.IsValid)
-            //{
-            //    _context.Add(medicine);
-            //    await _context.SaveChangesAsync();
-            //    return RedirectToAction(nameof(Index));
-            //}
-            _context.Add(medicine);
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            if (ModelState.IsValid)
+            {
+                _context.Add(medicine);
+                _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            //_context.Add(medicine);
+            //await _context.SaveChangesAsync();
+            //return RedirectToAction(nameof(Index));
             return View(medicine);
         }
 
@@ -88,7 +89,7 @@ namespace CodeFirstApporachCore.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("MedicineId,MedicineName,MedicineDescription,MedicinePrice,Quantity")] Medicine medicine)
+        public async Task<IActionResult> Edit(int id, [Bind("MedicineId,MedicineName,MedicineDescription,MedicinePrice,Quantity,MedicineSupplierSupplierId")] Medicine medicine)
         {
             if (id != medicine.MedicineId)
             {
